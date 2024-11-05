@@ -7,3 +7,5 @@
 - **Interactive Major Mapping**: Generate a visual map, similar to an Entity-Relationship Diagram (ERD), that displays a structured pathway through your major.
 - **Graduation Date Estimation**: Receive an estimated graduation date (e.g., "Fall 2028") based on completed and planned courses.
 - **"What-If" Planning**: Explore potential future semesters by adding courses you plan to take and viewing a transcript-like history with both completed and planned coursework.
+
+![Image of ERD](/Images/MajorMapsERD.png)
