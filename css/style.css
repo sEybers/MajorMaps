@@ -2,4 +2,24 @@ body{
     margin: 0px;
 }
 
-/*navbar styling*/
+.register{
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    border: solid 5px #004c93;
+    border-radius: 5px;
+}
+.register h1{
+    text-align: center;
+    color: White;
+    background-color: #004c93;
+    margin: 0px;
+    padding: 3%;
+}
+
+.formContainer{
+    display: flex;
+    width: 50%;
+    margin: 5% auto;
+    margin-top: 10%;
+}
