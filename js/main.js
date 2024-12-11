@@ -1,3 +1,4 @@
+
 class Product{
     constructor(id,name,price){
         this.productID=id;
@@ -43,5 +44,15 @@ let findSum = (i1,i2,i3) => (i1+i2+i3);
 let findAverage = (i1,i2,i3) => (findSum(i1,i2,i3))/3;
 
 console.log(findAverage(5,7,9));
+
+
+console.log("Hello World!")
+
+let random = ["pizza",9,false,4.56]
+
+for (let i = 0; i < random.length; i++) {
+
+    console.log(random[i])
+}
 
 
