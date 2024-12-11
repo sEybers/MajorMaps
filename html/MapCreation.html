@@ -5,12 +5,36 @@
     <title>MapCreation</title>
     <link rel="stylesheet" href="../css/navStyle.css">
     <link rel="stylesheet" href="../css/style.css">
+
+    <script defer src="../js/main.js"></script>
+    <script defer src="../js/createMap.js"></script>
 </head>
 <body>
   <div id="navbar-placeholder"></div>
 <main>
 
+    <form class="register" id="create-map-form">
 
+        <h1>Create New Map</h1>
+
+        <div class="formContainer">
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name" placeholder="MajorMap" required>
+        </div>
+
+        <div class="formContainer">
+            <label for="major">Major:</label>
+            <input type="text" id="major" name="major" required>
+        </div>
+
+        <div class="formContainer">
+
+            <input type="submit" value="Create Map">
+
+        </div>
+
+
+    </form>
 
 
 
