@@ -13,7 +13,8 @@
     text-align: center;
 }
 .navbar a:hover{
-    background-color: #000000;
+    background-color: rgba(0,0,0,0.2);
+
 }
 .navbar li{
     float: left;
