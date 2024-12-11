@@ -10,3 +10,8 @@
 
 ## Entity Relationship Diagram
 ![Image of ERD](/Images/MajorMapsERD.png)
+
+## Database Structure
+![Image of ERD](/Images/1tables.png)
+![Image of ERD](/Images/2tables.png)
+![Image of ERD](/Images/3tables.png)
